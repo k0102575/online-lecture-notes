@@ -1,2 +1,7 @@
-# online-lecture-notes
-[Study] online Lecture notes
+# Online Leture Notes
+
+유데미, 인프런 등 인터넷 강의 학습 정리
+
+### Letures
+
+- 

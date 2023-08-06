@@ -4,4 +4,4 @@
 
 ### Letures
 
-- 
+- [줌 클론 코딩](https://nomadcoders.co/noom/lobby)

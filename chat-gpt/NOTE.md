@@ -69,7 +69,7 @@ OpenAI에서는 생성되는 입력 토큰과 출력 토큰을 합하여 모델�
 
 ## Section 4 색 팔레트 생성기 프로젝트
 
-- 프로젝트 완성 후 링크
+- TODO: 프로젝트 완성 후 링크
 
 ## Section 5 주요 API 매개변수
 
@@ -147,3 +147,14 @@ helliveo.   The sight and aroma of those flavoursight will make both adults and 
 ## Section 6 Chat api 와 GPT-4
 
 - TODO: 전체 강의 정리 필요
+
+## Section 7 GPT-4 챗봇 만들기
+
+- 챗봇 만들기 프로젝트
+  - python 으로 질문을 하고 응답을 받는 챗봇을 개발
+  - 챗봇에 성격을 부여하고 텍스트에 색상을 스타일링
+
+```python
+python chatbot.py
+python chatbot.py --personality "silly and goofy"
+```

@@ -158,3 +158,21 @@ helliveo.   The sight and aroma of those flavoursight will make both adults and 
 python chatbot.py
 python chatbot.py --personality "silly and goofy"
 ```
+
+## Section 8 GPT-4로 코드 작업하기
+
+- 코드 설명 요청하기
+  - 정상적인 함수를 보내고 파라미터와 함수의 기능의 설명을 확인
+- 시간 복잡도 계산하기
+  - 버블 정렬, 퀵정렬 함수명을 숨기고 보내서 정확하게 계산하는지 확인
+- JS 를 파이썬으로 변환하기
+  - 함수명 들을 mystery 및 설정하지 않고 보내서 기능이 정상적으로 돌아가는지 확인
+- 코드 버그 수정하기
+  - 함수명과 다른 결과같은 내는 함수를 메시지로 보내고 수정요청을 진행하여 확인
+  - 구문에러를 발생시키고 수정요청을 진행하여 확인
+- 처음부터 코드 작성하기
+  - tmi: 모든 코드를 얻으려는 곳으로 생각하지 말고 시작점과 아이디어를 얻을수있는 곳으로 생각하자.
+  - 설명만으로 코드를 코딩해주는지 확인
+
+- tmi: Codex 라는 코드 관련 모델이 잇었지만 GPT-3.5 터보와 GPT-4 가 나오면서 사용중지 되었다.
+
